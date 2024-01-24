@@ -14,10 +14,11 @@
 
 <br />
 
-## Open in Terminal to Run Codes
+## Open in Terminal to Run Code
 
-1.  `code .`
-2.  `git clone https://github.com/yuliantocode93/Node.js-Basic.git`
-3.  `cd 1.module etc.`
-4.  For module-system and core module, run: `node .`
-5.  For npm, run: `npm start`
+1.  To open Visual Studio Code, run: `code .`
+2.  Clone my Repo: `git clone https://github.com/yuliantocode93/Node.js-Basic.git`
+3.  Open Directory: `cd 1.module` etc.
+4.  To change Directory, run: `cd ..` and `cd 2.core-module` etc.
+5.  For module-system and core module, run: `node .`
+6.  For npm, run: `npm i` and run: `npm start`
