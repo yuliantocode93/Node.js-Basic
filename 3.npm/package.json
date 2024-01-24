@@ -1,0 +1,23 @@
+{
+  "name": "3.npm",
+  "version": "1.0.0",
+  "description": "nodejs npm",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuliantocode93/Node.js-Basic.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "yulianto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuliantocode93/Node.js-Basic/issues"
+  },
+  "homepage": "https://github.com/yuliantocode93/Node.js-Basic#readme"
+}

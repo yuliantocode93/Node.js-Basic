@@ -14,8 +14,10 @@
 
 <br />
 
-## Step to Start Project
+## Open in Terminal to Run Codes
 
-1.  `git clone https://github.com/yuliantocode93/Node.js-Basic.git`
-2.  `cd 1.module and etc.`
-3.  `node .`
+1.  `code .`
+2.  `git clone https://github.com/yuliantocode93/Node.js-Basic.git`
+3.  `cd 1.module etc.`
+4.  For module-system and core module, run: `node .`
+5.  For npm, run: `npm start`
